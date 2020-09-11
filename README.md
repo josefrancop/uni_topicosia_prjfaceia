@@ -24,7 +24,20 @@ Librerias y/o herramientas necesarias:<br>
 •	pip install opencv-contrib-python --user<br>
 
 Utilitarios:<br>
+•	Php 7.0<br>
+•	Apache<br>
+•	MYSQL<br>
+•	ANACONDA: https://www.anaconda.com/products/individual#windows<br>
 •	Keras: https://pypi.org/project/Keras/#files<br>
 •	Tensorflow: https://storage.googleapis.com/tensorflow/windows/cpu/tensorflow_cpu-2.1.0-cp37-cp37m-win_amd64.whl<br>
 •	Opencv: https://pypi.org/project/opencv-python/#files<br>
 •	PIP: https://bootstrap.pypa.io/get-pip.py
+
+Pasos:<br>
+1. Instalar librerias y/o herramientas necesarias<br>
+2. conda activate tensorflow (nombre de tu environment)<br>
+3. python modelnames.py<br>
+4. python faceia.py<br>
+
+Se adjunta scripts y sistema web de gestor de los album clasificado con mascarilla y sin mascarilla<br>
+Puedes usar las imagenes como dataset, encontradas en el archivo de MYSQL
