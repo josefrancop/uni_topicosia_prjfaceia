@@ -1,6 +1,6 @@
 # SISTEMA DETECCION DE ROSTROS Y MASCARILLAS POR CAMARA
-UNIVERSIDAD NACIONAL DE INGENIERÍA - FIIS 
-Curso: TÓPICOS ESPECIALES EN INGENIERÍA DE SISTEMAS I (INTELIGENCIA ARTIFICIAL)
+UNIVERSIDAD NACIONAL DE INGENIERÍA - FIIS <br>
+Curso: TÓPICOS ESPECIALES EN INGENIERÍA DE SISTEMAS I (INTELIGENCIA ARTIFICIAL)<br>
 Docente: Ing. Wester Zela
 
 Por la pandemia actual del COVID 19, se realizo el desarrollo de un script hecho en python 3.7, el script reconoce el nombre del rostro y si lleva mascarilla o no, se hizo uso de las librerias TENSORFLOW, KERAS Y OPENCV, con el proposito de prohibir la entrada a centros comerciales y otras aglomeraciones, a personas que no lleven mascarilla por recomendacion de la OMS y asi mitigar el contagio.
