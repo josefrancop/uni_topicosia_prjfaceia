@@ -14,7 +14,7 @@ Las características del ordenador para el desarrollo son:
 •	WINDOWS 10<br>
 •	Webcam resolución mínima 640*480<br>
 
-Librerias y/o herramientas necesarias:
+Librerias y/o herramientas necesarias:<br>
 •	pip install --upgrade tensorflow<br>
 •	pip install Keras<br>
 •	pip install opencv-python<br>
@@ -22,3 +22,9 @@ Librerias y/o herramientas necesarias:
 •	pip install face_recognition<br>
 •	pip install imutils<br>
 •	pip install opencv-contrib-python --user<br>
+
+Utilitarios:<br>
+•	Keras: https://pypi.org/project/Keras/#files<br>
+•	Tensorflow: https://storage.googleapis.com/tensorflow/windows/cpu/tensorflow_cpu-2.1.0-cp37-cp37m-win_amd64.whl<br>
+•	Opencv: https://pypi.org/project/opencv-python/#files<br>
+•	PIP: https://bootstrap.pypa.io/get-pip.py
